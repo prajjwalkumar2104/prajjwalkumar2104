@@ -50,8 +50,8 @@ I'm an enthusiastic **Full Stack Developer** and undergraduate student at IIIT B
 ---
 
 ## 📊 Coding Profiles:
-* **LeetCode:** [prajjwalkumar](https://leetcode.com/) (1750+ Rating)
-* **CodeChef:** [prajjwalkumar](https://www.codechef.com/)
+* **LeetCode:** [prajjwalkumar]([https://leetcode.com/u/Prajjwal2104/]) (1750+ Rating)
+* **CodeChef:** [prajjwalkumar]([https://www.codechef.com/users/prajjwalkumar])
 
 
 # 📊 GitHub Stats:
